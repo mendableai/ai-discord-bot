@@ -16,7 +16,7 @@ This is a Discord bot that uses the Mendable API to answer questions and provide
     - `MENDABLE_API_KEY`: Your Mendable API key.
     - `DISCORD_TOKEN`: Your Discord bot token.
     - `BOT_ID`: Your Discord bot ID.
-4. Run the bot with `node index.js`.
+4. Run the bot with `node index.js` or `npm run start`.
 
 ## Usage
 
