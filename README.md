@@ -66,6 +66,3 @@ The bot will create a new thread, answer the question, and provide sources for t
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License.
