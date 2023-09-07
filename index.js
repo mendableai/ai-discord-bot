@@ -1,4 +1,5 @@
 const { Client, GatewayIntentBits, EmbedBuilder } = require("discord.js");
+const fetch = require("node-fetch");
 require("dotenv").config();
 
 // Secrets
