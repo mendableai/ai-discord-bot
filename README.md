@@ -23,7 +23,7 @@ This is a Discord bot that uses the Mendable API to answer questions and provide
 To ask a question, mention the bot followed by your question. For example:
 
 ```
-@bot What is the capital of France?
+@MendableAI How to create a Mendable AI Discord Bot?
 ```
 
 The bot will create a new thread, answer the question, and provide sources for the answer.
