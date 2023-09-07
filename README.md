@@ -1,4 +1,4 @@
-# Mendable Discord Bot
+# Mendable AI Discord Bot
 
 This is a Discord bot that uses the Mendable API to answer questions and provide sources for the answers. It creates a new thread for each question asked and stores the history of the conversation.
 
