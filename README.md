@@ -62,6 +62,16 @@ The bot will create a new thread, answer the question, and provide sources for t
 5. **Get the Bot ID**
     - Right click on the bot name and select `Copy ID`. This is your `BOT_ID`.
 
+
+## Deploying to Railway
+
+With [Railway](https://railway.app) you can deploy your bot in less than a minute. To do so, follow these steps:
+
+1. Create a new Railway project.
+2. Connect your GitHub repo that contains the bot's code.
+3. Insert your environment variables in the `Environment Variables` section of the project settings.
+4. That's it! Railway will automatically deploy your bot and keep it running.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
